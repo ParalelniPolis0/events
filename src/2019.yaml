@@ -1276,13 +1276,14 @@
 
 
 - id: 2019-07-07-crypto-camp-paralelni-polis-2019-july-7-12-en
-  name: Crypto Camp Paralelní Polis 2019 ►July 7-12 (EN)
+  name: Crypto Camp Paralelní Polis 2019
   place:
     city: Prague
     country: cz
   venues:
     - name: Paralelni Polis Praha
   date: '2019-07-07'
+  days: 5
   startTime: '2019-07-07T18:00:00+02:00'
   endTime: '2019-07-12T20:00:00+02:00'
   description: >-
@@ -2256,6 +2257,8 @@
   date: '2019-04-18'
   startTime: '2019-04-18T18:00:00+02:00'
   endTime: '2019-04-18T19:30:00+02:00'
+  speakers:
+    - sodomak
   description: >-
     Znáte povahu svého digitálního soukromí? Záleží vám na osobní svobodě a na
     tom, jak si ji můžete zajistit? Diskuse Internet a svoboda opět potvrdila,
@@ -2304,6 +2307,8 @@
   date: '2019-04-17'
   startTime: '2019-04-17T18:30:00+02:00'
   endTime: '2019-04-17T20:00:00+02:00'
+  speakers:
+    - dominik-stroukal
   description: >-
     Proč máme tu a tam krizi? A proč je historie hospodářského cyklu lemována
     zleva počátkem moderního kapitalismu? Na příběhu deseti historických bublin
@@ -2433,6 +2438,8 @@
   date: '2019-01-10'
   startTime: '2019-01-10T18:30:00+01:00'
   endTime: '2019-01-10T20:30:00+01:00'
+  speakers:
+    - paul-rosenberg
   description: >-
     • What we'll do
 

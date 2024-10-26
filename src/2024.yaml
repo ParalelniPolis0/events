@@ -7,6 +7,14 @@
   refs:
     luma: w3pn-meetup-devcon7
     web: https://congress.web3privacy.info/
+  speakers:
+    - vitalik-buterin
+    - jarrad-hope
+    - amir-taaki
+    - rachel-rose
+    - exiledsurfer
+  description: |
+    Join the largest freedom & privacy activism gathering facilitated by the Web3Privacy now collective + [rave](https://lu.ma/gqmn3nsl)
 
 - id: hcpp24
   name: "HCPP24: Hardcore"
@@ -419,6 +427,8 @@
   date: '2024-04-03'
   startTime: '2024-04-03T18:00:00+02:00'
   endTime: '2024-04-03T21:00:00+02:00'
+  speakers:
+    - ajs
   description: >-
     Come join us for a drink and casual chat about Monero and other
     privacy-enhancing tech in the crypto space. A.J., an organizer of MoneroKon,

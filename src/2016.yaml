@@ -193,6 +193,9 @@
   date: '2016-02-02'
   startTime: '2016-02-02T19:00:00+01:00'
   endTime: '2016-02-02T22:00:00+01:00'
+  speakers:
+    - martin-sip
+    - slush
   description: >-
     Do you know how Bitcoin started? During the meetup, Marek Palatinus and
     Martin Sip will talk about Bitcoin Whitepaper and first developments around
@@ -222,11 +225,13 @@
   endTime: '2016-01-26T21:30:00+01:00'
   description: >-
     Book launch of Bitcoin: Money of the Future by Dominik Stroukal and Jan
-    Stransky. Meetup is held in Czech, but you are welcome to visit us at our
+    Skalický. Meetup is held in Czech, but you are welcome to visit us at our
     Bitcoin Coffee and have your first coffee for bitcoin anyway.
 
 
     Detail https://www.facebook.com/events/219141221758197
+  speakers:
+    - dominik-stroukal
   refs:
     meetup_id: '228241832'
     meetup: https://www.meetup.com/paralelnipolis/events/228241832/

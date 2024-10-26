@@ -549,6 +549,8 @@
 
     You will have a unique opportunity to meet Palo and ask him anything you
     want at this meetup!
+  speakers:
+    - wilder
   refs:
     meetup_id: '288349261'
     meetup: https://www.meetup.com/paralelnipolis/events/288349261/
@@ -688,6 +690,8 @@
   date: '2022-09-18'
   startTime: '2022-09-18T18:00:00+02:00'
   endTime: '2022-09-19T04:20:00+02:00'
+  speakers:
+    - mario
   description: >-
     **COME TO CELEBRATE THE MERGE IN THE LEGENDARY BORDEL HACKERSPACE w/ Mario
     Havel!**
