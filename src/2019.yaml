@@ -2,6 +2,9 @@
   name: "HCPP19: Opt-Out"
   date: "2019-10-04"
   project: hcpp
+  place:
+    city: Prague
+    country: cz
   days: 3
   seq: 6
   refs:

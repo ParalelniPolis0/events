@@ -2,6 +2,9 @@
   name: "HCPP16: Decentralized"
   date: "2016-09-30"
   project: hcpp
+  place:
+    city: Prague
+    country: cz
   days: 3
   seq: 3
   refs:

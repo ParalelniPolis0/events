@@ -1,6 +1,9 @@
 - id: 2024-11-11-w3pn-eth-cypherpunk-congress
   date: '2024-11-11'
   name: Ethereum Cypherpunk Congress by W3PN @ Devcon 7
+  place:
+    city: Bangkok
+    country: th
   refs:
     luma: w3pn-meetup-devcon7
     web: https://congress.web3privacy.info/
@@ -11,6 +14,12 @@
   days: 3
   seq: 11
   project: hcpp
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelní Polis Praha
+    - name: La Fabrika
   refs:
     web: https://hardcore.hcpp.cz
   speakers:
@@ -32,4 +41,26 @@
     - oskar-thoren
     - christian-lewe
   organizers:
+    - kx
+
+- id: pd24
+  name: "Pizza Day Prague 2024: Scaling Wars"
+  date: "2024-05-18"
+  project: pizza-day
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelní Polis Praha
+    - name: La Fabrika
+  days: 2
+  seq: 3
+  speakers:
+    - mario
+    - 0xorkun
+    - musalbas
+    - exiledsurfer
+    - juraj-bednar
+  organizers:
+    - mario
     - kx

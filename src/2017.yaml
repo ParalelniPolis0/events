@@ -2,6 +2,9 @@
   name: "HCPP17: Liberate!"
   date: "2017-10-06"
   project: hcpp
+  place:
+    city: Prague
+    country: cz
   days: 3
   seq: 4
   refs:

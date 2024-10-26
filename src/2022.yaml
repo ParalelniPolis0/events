@@ -2,6 +2,12 @@
   name: "HCPP22: Last Shot"
   date: "2022-09-29"
   project: hcpp
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelní Polis Praha
+    - name: La Fabrika
   days: 3
   seq: 9
   refs:
@@ -24,3 +30,49 @@
     - ariel-gabizon
     - alexandra-moxin
   aftermovie: MDJLELT0fpw
+
+- id: ethprague22
+  name: ETHPrague 2022
+  date: "2022-06-10"
+  project: ethprague
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelní Polis Praha
+    - name: La Fabrika
+  days: 3
+  seq: 1
+  speakers:
+    - mario
+    - danny-holland
+    - william-lobkowicz
+    - tina-haibodi
+    - sara-polak
+    - jarrad-hope
+    - wlodek-gogloza
+  organizers:
+    - mario
+    - josefj
+  aftermovie: Gvv-lTjmQ9o
+
+- id: pd22
+  name: Pizza Day Prague 2022 
+  date: "2022-05-21"
+  project: pizza-day
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelní Polis Praha
+    - name: La Fabrika
+  seq: 1
+  speakers:
+    - amir-taaki
+    - joerg-platzer
+    - vlad-costea
+    - exiledsurfer
+    - sergej-kotliar
+    - ruben-somsen
+  organizers:
+    - mario

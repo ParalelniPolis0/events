@@ -2,6 +2,9 @@
   name: "HCPP18: New Order"
   date: "2018-10-05"
   project: hcpp
+  place:
+    city: Prague
+    country: cz
   days: 3
   seq: 5
   refs:

@@ -2,6 +2,12 @@
   name: "HCPP23: Resistance"
   date: "2023-09-29"
   project: hcpp
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelní Polis Praha
+    - name: La Fabrika
   days: 3
   seq: 10
   refs:
@@ -31,4 +37,64 @@
     - max-hampshire
     - amin-rafiee
   organizers:
+    - kx
+
+- id: ethprague23
+  name: ETHPrague 2023
+  date: "2023-06-09"
+  project: ethprague
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelní Polis Praha
+    - name: La Fabrika
+    - name: Vnitroblock
+  days: 3
+  seq: 2
+  speakers:
+    - jarrad-hope
+    - sara-polak
+    - brewster-kahle
+    - mario
+    - amir-taaki
+    - vitalik-buterin
+    - josef-gattermayer
+    - daniel-lumi
+    - owen-barnes
+    - rachel-rose
+    - mario
+    - amir-taaki
+    - christoph-jentzsch
+    - tim-beiko
+    - daniel-lumi
+    - danny-holland
+    - mario
+    - wlodek-gogloza
+  organizers:
+    - josefj
+  aftermovie: bOIYk4Hrjhw
+
+- id: pd23
+  name: "Pizza Day Prague 2023: P2P"
+  date: "2023-05-19"
+  project: pizza-day
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelní Polis Praha
+    - name: La Fabrika
+  seq: 2
+  speakers:
+    - peter-todd
+    - exiledsurfer
+    - martin-matejka
+    - vlad-costea
+    - maxim-orlovsky
+    - max-hillebrand
+    - lea-petras
+    - juraj-bednar
+  organizers:
+    - mario
     - kx

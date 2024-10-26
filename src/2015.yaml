@@ -2,6 +2,9 @@
   name: "HCPP15: Blackout"
   date: "2015-10-02"
   project: hcpp
+  place:
+    city: Prague
+    country: cz
   days: 3
   seq: 2
   refs:

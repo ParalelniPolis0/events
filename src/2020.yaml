@@ -2,6 +2,12 @@
   name: "HCPP20: Digital Totality"
   date: "2020-10-02"
   project: hcpp
+  place:
+    city: Prague
+    country: cz
+  venues:
+    - name: Paralelní Polis Praha
+    - name: La Fabrika
   days: 3
   seq: 7
   refs:
@@ -27,3 +33,14 @@
     - travin-keith
     - silur
   aftermovie: 8QYNUPxLdGw
+
+- id: noncon20
+  name: NONCON 2020
+  date: "2020-04-03"
+  project: noncon
+  days: 4
+  seq: 1
+  speakers:
+    - exiledsurfer
+  organizers:
+    - exiledsurfer

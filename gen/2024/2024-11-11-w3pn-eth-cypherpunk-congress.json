@@ -5,9 +5,10 @@
     "dateStart": "2024-11-11T02:00:00.000Z",
     "dateEnd": "2024-11-11T12:00:00.000Z",
     "timezone": "Asia/Bangkok",
-    "placeName": "256 Rama I Rd",
-    "placeCountry": "Thailand",
-    "placeCity": null,
+    "place": {
+      "name": "256 Rama I Rd",
+      "countryName": "Thailand"
+    },
     "img": "https://images.lumacdn.com/event-covers/7g/87ce6260-c05a-46be-9576-93d5c02f766f",
     "hosts": [
       {
