@@ -1,0 +1,17 @@
+{
+  "name": "@pp0/events",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./lib/build.js",
+    "crawl": "node ./lib/crawl.js"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "devDependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}

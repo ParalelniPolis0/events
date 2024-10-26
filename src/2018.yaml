@@ -1,0 +1,38 @@
+- id: hcpp18
+  name: "HCPP18: New Order"
+  date: "2018-10-05"
+  project: hcpp
+  days: 3
+  seq: 5
+  refs:
+    web: https://neworder.hcpp.cz
+  speakers:
+    - nassim-nicholas-taleb
+    - michael-laufer
+    - pavla-holcova
+    - adolfo-linares
+    - luis-cuende
+    - vit-jedlicka
+    - paul-rosenberg
+    - peter-todd
+    - maxim-orlovsky
+    - frank-braun
+    - jimmy-song
+    - wilder
+    - joerg-platzer
+    - giacomo-zucco
+    - max-keidun
+    - smuggler
+    - tone-vays
+    - amin-rafiee
+    - habo
+    - michael-schloh
+    - radim-kozub
+    - pavel-urbaczka
+    - silur
+    - eric-lombrozo
+    - pablo-coirolo
+    - liora
+    - jw-weatherman
+    - pavol-travnik
+    - sonja-prstec

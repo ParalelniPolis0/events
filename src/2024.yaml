@@ -1,0 +1,35 @@
+- id: 2024-11-11-w3pn-eth-cypherpunk-congress
+  date: '2024-11-11'
+  name: Ethereum Cypherpunk Congress by W3PN @ Devcon 7
+  refs:
+    luma: w3pn-meetup-devcon7
+    web: https://congress.web3privacy.info/
+
+- id: hcpp24
+  name: "HCPP24: Hardcore"
+  date: "2024-10-04"
+  days: 3
+  seq: 11
+  project: hcpp
+  refs:
+    web: https://hardcore.hcpp.cz
+  speakers:
+    - mario
+    - exiledsurfer
+    - amir-taaki
+    - jaromil
+    - jarrad-hope
+    - mitch-altman
+    - juraj-bednar
+    - wilder
+    - yisi-liu
+    - paul-rosenberg
+    - kristian-csepcsar
+    - maxim-orlovsky
+    - ajs
+    - ryan-lackey
+    - florian-glatz
+    - oskar-thoren
+    - christian-lewe
+  organizers:
+    - kx

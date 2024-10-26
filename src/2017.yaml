@@ -1,0 +1,34 @@
+- id: hcpp17
+  name: "HCPP17: Liberate!"
+  date: "2017-10-06"
+  project: hcpp
+  days: 3
+  seq: 4
+  refs:
+    web: https://liberate.hcpp.cz
+  speakers:
+    - vit-jedlicka
+    - sam-patterson
+    - amin-rafiee
+    - juraj-bednar
+    - adam-back
+    - ondrej-pilny
+    - urza
+    - zdenka-stankova
+    - pamela-morgan
+    - peter-todd
+    - giacomo-zucco
+    - wilder
+    - paul-rosenberg
+    - amir-taaki
+    - jim-bell
+    - tone-vays
+    - frank-braun
+    - pavol-rusnak
+    - tomas-michalek
+    - matej-held
+    - ido-kaiser
+    - justin-smith
+    - chris-beams
+    - david-hemmerle
+    - josef-sima

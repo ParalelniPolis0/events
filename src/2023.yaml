@@ -1,0 +1,34 @@
+- id: hcpp23
+  name: "HCPP23: Resistance"
+  date: "2023-09-29"
+  project: hcpp
+  days: 3
+  seq: 10
+  refs:
+    web: https://resistance.hcpp.cz
+  speakers:
+    - rachel-rose
+    - amir-taaki
+    - richard-stallman
+    - sethforprivacy
+    - amin-rafiee
+    - cody-wilson
+    - paul-rosenberg
+    - jarrad-hope
+    - ryan-lackey
+    - wilder
+    - juraj-bednar
+    - martin-leskovjan
+    - bob-summerwill
+    - maxim-orlovsky
+    - vit-jedlicka
+    - mitch-altman
+    - jessica-solce
+    - pavel-hubacek
+    - silke-noa
+    - travin-keith
+    - scott-beibin
+    - max-hampshire
+    - amin-rafiee
+  organizers:
+    - kx

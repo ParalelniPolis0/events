@@ -1,0 +1,26 @@
+- id: hcpp22
+  name: "HCPP22: Last Shot"
+  date: "2022-09-29"
+  project: hcpp
+  days: 3
+  seq: 9
+  refs:
+    web: https://last-shot.hcpp.cz
+  speakers:
+    - ryan-lackey
+    - paul-rosenberg
+    - daniela-brozzoni
+    - parazyd
+    - sethforprivacy
+    - max-hampshire
+    - jarrad-hope
+    - rachel-rose
+    - mitch-altman
+    - scott-beibin
+    - filip-dvorak
+    - jindrich-karasek
+    - kai-landre
+    - janine
+    - ariel-gabizon
+    - alexandra-moxin
+  aftermovie: MDJLELT0fpw

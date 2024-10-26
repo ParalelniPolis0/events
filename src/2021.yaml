@@ -1,0 +1,11 @@
+- id: hcpp21
+  name: "HCPP21: Chaos"
+  date: "2021-10-01"
+  project: hcpp
+  days: 3
+  seq: 8
+  refs:
+    web: https://chaos.hcpp.cz
+  speakers:
+    - tey-el-rjula
+  aftermovie: vc2AZPTMWcI

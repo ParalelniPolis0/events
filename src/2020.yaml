@@ -1,0 +1,29 @@
+- id: hcpp20
+  name: "HCPP20: Digital Totality"
+  date: "2020-10-02"
+  project: hcpp
+  days: 3
+  seq: 7
+  refs:
+    web: https://digital-totality.hcpp.cz
+  speakers:
+    - juraj-bednar
+    - paul-rosenberg
+    - olga-ukolova
+    - fluffy-pony
+    - amin-rafiee
+    - frank-braun
+    - david-friedman
+    - martin-leskovjan
+    - julia-tourianski
+    - harry-halpin
+    - douglas-rushkoff
+    - ketominer
+    - alexandra-moxin
+    - max-hillebrand
+    - smuggler
+    - alexander-bard
+    - sara-polak
+    - travin-keith
+    - silur
+  aftermovie: 8QYNUPxLdGw
